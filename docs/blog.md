@@ -250,6 +250,12 @@ Tag 有很多，可从首页点进 Tag 以后的 URL 获取，例如 `https://me
 
 :::
 
+## Qt
+
+### 博客
+
+<Route author="fuzy112" example="/qt/blog" path="/qt/blog"/>
+
 ## Stratechery by Ben Thompson
 
 ### 博客
