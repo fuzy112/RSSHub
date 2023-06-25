@@ -168,6 +168,12 @@ Limit the number of entries to be retrieved by adding `?limit=x` to the end of t
 
 </RouteEn>
 
+## Qt
+
+### Blog
+
+<RouteEn author="fuzy112" example="/qt/blog" path="/qt/blog"/>
+
 ## Stratechery by Ben Thompson
 
 ### Blog
